@@ -1,0 +1,47 @@
+Packages/io.elhan.firebase.auth/Assets/Editor Default Resources/Firebase/fb_analytics.png
+Packages/io.elhan.firebase.auth/Assets/Editor Default Resources/Firebase/fb_analytics_dark.png
+Packages/io.elhan.firebase.auth/Assets/Editor Default Resources/Firebase/fb_auth.png
+Packages/io.elhan.firebase.auth/Assets/Editor Default Resources/Firebase/fb_auth_dark.png
+Packages/io.elhan.firebase.auth/Assets/Editor Default Resources/Firebase/fb_cloud_messaging.png
+Packages/io.elhan.firebase.auth/Assets/Editor Default Resources/Firebase/fb_cloud_messaging_dark.png
+Packages/io.elhan.firebase.auth/Assets/Editor Default Resources/Firebase/fb_config.png
+Packages/io.elhan.firebase.auth/Assets/Editor Default Resources/Firebase/fb_config_dark.png
+Packages/io.elhan.firebase.auth/Assets/Editor Default Resources/Firebase/fb_database.png
+Packages/io.elhan.firebase.auth/Assets/Editor Default Resources/Firebase/fb_database_dark.png
+Packages/io.elhan.firebase.auth/Assets/Editor Default Resources/Firebase/fb_invites.png
+Packages/io.elhan.firebase.auth/Assets/Editor Default Resources/Firebase/fb_invites_dark.png
+Packages/io.elhan.firebase.auth/Assets/Editor Default Resources/Firebase/fb_storage.png
+Packages/io.elhan.firebase.auth/Assets/Editor Default Resources/Firebase/fb_storage_dark.png
+Packages/io.elhan.firebase.auth/Assets/Editor Default Resources/Firebase/firebase_lockup.png
+Packages/io.elhan.firebase.auth/Assets/Editor Default Resources/Firebase/firebase_lockup_dark.png
+Packages/io.elhan.firebase.auth/Assets/Firebase/Editor/AppDeps.cs
+Packages/io.elhan.firebase.auth/Assets/Firebase/Editor/AuthDeps.cs
+Packages/io.elhan.firebase.auth/Assets/Firebase/Editor/Firebase.Editor.dll
+Packages/io.elhan.firebase.auth/Assets/Firebase/Editor/generate_xml_from_google_services_json.exe
+Packages/io.elhan.firebase.auth/Assets/Firebase/Editor/generate_xml_from_google_services_json.py
+Packages/io.elhan.firebase.auth/Assets/Firebase/Plugins/Firebase.App.dll
+Packages/io.elhan.firebase.auth/Assets/Firebase/Plugins/Firebase.Auth.dll
+Packages/io.elhan.firebase.auth/Assets/Firebase/Plugins/Unity.Compat.dll
+Packages/io.elhan.firebase.auth/Assets/Firebase/Plugins/Unity.Tasks.dll
+Packages/io.elhan.firebase.auth/Assets/Firebase/Plugins/iOS/Firebase.App.dll
+Packages/io.elhan.firebase.auth/Assets/Firebase/Plugins/iOS/Firebase.Auth.dll
+Packages/io.elhan.firebase.auth/Assets/Firebase/m2repository/com/google/firebase/firebase-app-unity/1.1.2/firebase-app-unity-1.1.2.pom
+Packages/io.elhan.firebase.auth/Assets/Firebase/m2repository/com/google/firebase/firebase-app-unity/1.1.2/firebase-app-unity-1.1.2.srcaar
+Packages/io.elhan.firebase.auth/Assets/Firebase/m2repository/com/google/firebase/firebase-app-unity/maven-metadata.xml
+Packages/io.elhan.firebase.auth/Assets/Firebase/m2repository/com/google/firebase/firebase-auth-unity/1.1.2/firebase-auth-unity-1.1.2.pom
+Packages/io.elhan.firebase.auth/Assets/Firebase/m2repository/com/google/firebase/firebase-auth-unity/1.1.2/firebase-auth-unity-1.1.2.srcaar
+Packages/io.elhan.firebase.auth/Assets/Firebase/m2repository/com/google/firebase/firebase-auth-unity/maven-metadata.xml
+Packages/io.elhan.firebase.auth/Assets/PlayServicesResolver/Editor/Google.IOSResolver_v1.2.10.0.dll
+Packages/io.elhan.firebase.auth/Assets/PlayServicesResolver/Editor/Google.JarResolver_v1.2.10.0.dll
+Packages/io.elhan.firebase.auth/Assets/PlayServicesResolver/Editor/Google.VersionHandler_v1.2.10.0.dll
+Packages/io.elhan.firebase.auth/Assets/PlayServicesResolver/Editor/play-services-resolver_v1.2.10.0.txt
+Packages/io.elhan.firebase.auth/Assets/Plugins/Android/Firebase/AndroidManifest.xml
+Packages/io.elhan.firebase.auth/Assets/Plugins/Android/Firebase/project.properties
+Packages/io.elhan.firebase.auth/Assets/Plugins/iOS/Firebase/libApp.a
+Packages/io.elhan.firebase.auth/Assets/Plugins/iOS/Firebase/libAuth.a
+Packages/io.elhan.firebase.auth/Assets/Plugins/x86_64/Firebase/App.bundle
+Packages/io.elhan.firebase.auth/Assets/Plugins/x86_64/Firebase/App.dll
+Packages/io.elhan.firebase.auth/Assets/Plugins/x86_64/Firebase/App.so
+Packages/io.elhan.firebase.auth/Assets/Plugins/x86_64/Firebase/Auth.bundle
+Packages/io.elhan.firebase.auth/Assets/Plugins/x86_64/Firebase/Auth.dll
+Packages/io.elhan.firebase.auth/Assets/Plugins/x86_64/Firebase/Auth.so

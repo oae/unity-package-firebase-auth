@@ -1,0 +1,77 @@
+Packages/io.elhan.firebase.auth/Assets/Editor Default Resources/Firebase/fb_analytics.png
+Packages/io.elhan.firebase.auth/Assets/Editor Default Resources/Firebase/fb_analytics_dark.png
+Packages/io.elhan.firebase.auth/Assets/Editor Default Resources/Firebase/fb_auth.png
+Packages/io.elhan.firebase.auth/Assets/Editor Default Resources/Firebase/fb_auth_dark.png
+Packages/io.elhan.firebase.auth/Assets/Editor Default Resources/Firebase/fb_cloud_messaging.png
+Packages/io.elhan.firebase.auth/Assets/Editor Default Resources/Firebase/fb_cloud_messaging_dark.png
+Packages/io.elhan.firebase.auth/Assets/Editor Default Resources/Firebase/fb_config.png
+Packages/io.elhan.firebase.auth/Assets/Editor Default Resources/Firebase/fb_config_dark.png
+Packages/io.elhan.firebase.auth/Assets/Editor Default Resources/Firebase/fb_crashlytics.png
+Packages/io.elhan.firebase.auth/Assets/Editor Default Resources/Firebase/fb_crashlytics_dark.png
+Packages/io.elhan.firebase.auth/Assets/Editor Default Resources/Firebase/fb_database.png
+Packages/io.elhan.firebase.auth/Assets/Editor Default Resources/Firebase/fb_database_dark.png
+Packages/io.elhan.firebase.auth/Assets/Editor Default Resources/Firebase/fb_dynamic_links.png
+Packages/io.elhan.firebase.auth/Assets/Editor Default Resources/Firebase/fb_dynamic_links_dark.png
+Packages/io.elhan.firebase.auth/Assets/Editor Default Resources/Firebase/fb_functions.png
+Packages/io.elhan.firebase.auth/Assets/Editor Default Resources/Firebase/fb_functions_dark.png
+Packages/io.elhan.firebase.auth/Assets/Editor Default Resources/Firebase/fb_storage.png
+Packages/io.elhan.firebase.auth/Assets/Editor Default Resources/Firebase/fb_storage_dark.png
+Packages/io.elhan.firebase.auth/Assets/Editor Default Resources/Firebase/firebase_lockup.png
+Packages/io.elhan.firebase.auth/Assets/Editor Default Resources/Firebase/firebase_lockup_dark.png
+Packages/io.elhan.firebase.auth/Assets/Firebase/Editor/AppDependencies.xml
+Packages/io.elhan.firebase.auth/Assets/Firebase/Editor/AuthDependencies.xml
+Packages/io.elhan.firebase.auth/Assets/Firebase/Editor/Firebase.Editor.dll
+Packages/io.elhan.firebase.auth/Assets/Firebase/Editor/Firebase.Editor.dll.mdb
+Packages/io.elhan.firebase.auth/Assets/Firebase/Editor/FirebaseAuth_v1.0.0_manifest.txt
+Packages/io.elhan.firebase.auth/Assets/Firebase/Editor/FirebaseAuth_v1.0.1_manifest.txt
+Packages/io.elhan.firebase.auth/Assets/Firebase/Editor/FirebaseAuth_v1.1.0_manifest.txt
+Packages/io.elhan.firebase.auth/Assets/Firebase/Editor/FirebaseAuth_v1.1.1_manifest.txt
+Packages/io.elhan.firebase.auth/Assets/Firebase/Editor/FirebaseAuth_v1.1.2_manifest.txt
+Packages/io.elhan.firebase.auth/Assets/Firebase/Editor/NOTICE
+Packages/io.elhan.firebase.auth/Assets/Firebase/Editor/generate_xml_from_google_services_json.exe
+Packages/io.elhan.firebase.auth/Assets/Firebase/Editor/generate_xml_from_google_services_json.py
+Packages/io.elhan.firebase.auth/Assets/Firebase/Editor/network_request.exe
+Packages/io.elhan.firebase.auth/Assets/Firebase/Editor/network_request.py
+Packages/io.elhan.firebase.auth/Assets/Firebase/Editor/readme.md
+Packages/io.elhan.firebase.auth/Assets/Firebase/Plugins/Firebase.App.dll
+Packages/io.elhan.firebase.auth/Assets/Firebase/Plugins/Firebase.App.dll.mdb
+Packages/io.elhan.firebase.auth/Assets/Firebase/Plugins/Firebase.Auth.dll
+Packages/io.elhan.firebase.auth/Assets/Firebase/Plugins/Firebase.Auth.dll.mdb
+Packages/io.elhan.firebase.auth/Assets/Firebase/Plugins/Firebase.Platform.dll
+Packages/io.elhan.firebase.auth/Assets/Firebase/Plugins/Firebase.Platform.dll.mdb
+Packages/io.elhan.firebase.auth/Assets/Firebase/Plugins/Firebase.TaskExtension.dll
+Packages/io.elhan.firebase.auth/Assets/Firebase/Plugins/Firebase.TaskExtension.dll.mdb
+Packages/io.elhan.firebase.auth/Assets/Firebase/Plugins/Google.MiniJson.dll
+Packages/io.elhan.firebase.auth/Assets/Firebase/Plugins/iOS/Firebase.App.dll
+Packages/io.elhan.firebase.auth/Assets/Firebase/Plugins/iOS/Firebase.App.dll.mdb
+Packages/io.elhan.firebase.auth/Assets/Firebase/Plugins/iOS/Firebase.Auth.dll
+Packages/io.elhan.firebase.auth/Assets/Firebase/Plugins/iOS/Firebase.Auth.dll.mdb
+Packages/io.elhan.firebase.auth/Assets/Firebase/Plugins/x86_64/FirebaseCppApp-6_10_0.bundle
+Packages/io.elhan.firebase.auth/Assets/Firebase/Plugins/x86_64/FirebaseCppApp-6_10_0.dll
+Packages/io.elhan.firebase.auth/Assets/Firebase/Plugins/x86_64/FirebaseCppApp-6_10_0.so
+Packages/io.elhan.firebase.auth/Assets/Firebase/Plugins/x86_64/FirebaseCppAuth.bundle
+Packages/io.elhan.firebase.auth/Assets/Firebase/Plugins/x86_64/FirebaseCppAuth.dll
+Packages/io.elhan.firebase.auth/Assets/Firebase/Plugins/x86_64/FirebaseCppAuth.so
+Packages/io.elhan.firebase.auth/Assets/Firebase/m2repository/com/google/firebase/firebase-app-unity/6.10.0/firebase-app-unity-6.10.0.pom
+Packages/io.elhan.firebase.auth/Assets/Firebase/m2repository/com/google/firebase/firebase-app-unity/6.10.0/firebase-app-unity-6.10.0.srcaar
+Packages/io.elhan.firebase.auth/Assets/Firebase/m2repository/com/google/firebase/firebase-app-unity/maven-metadata.xml
+Packages/io.elhan.firebase.auth/Assets/Firebase/m2repository/com/google/firebase/firebase-auth-unity/6.10.0/firebase-auth-unity-6.10.0.pom
+Packages/io.elhan.firebase.auth/Assets/Firebase/m2repository/com/google/firebase/firebase-auth-unity/6.10.0/firebase-auth-unity-6.10.0.srcaar
+Packages/io.elhan.firebase.auth/Assets/Firebase/m2repository/com/google/firebase/firebase-auth-unity/maven-metadata.xml
+Packages/io.elhan.firebase.auth/Assets/Parse/Plugins/Unity.Compat.dll
+Packages/io.elhan.firebase.auth/Assets/Parse/Plugins/Unity.Tasks.dll
+Packages/io.elhan.firebase.auth/Assets/Parse/Plugins/dotNet45/Unity.Compat.dll
+Packages/io.elhan.firebase.auth/Assets/Parse/Plugins/dotNet45/Unity.Tasks.dll
+Packages/io.elhan.firebase.auth/Assets/PlayServicesResolver/Editor/Google.IOSResolver_v1.2.135.0.dll
+Packages/io.elhan.firebase.auth/Assets/PlayServicesResolver/Editor/Google.IOSResolver_v1.2.135.0.dll.mdb
+Packages/io.elhan.firebase.auth/Assets/PlayServicesResolver/Editor/Google.JarResolver_v1.2.135.0.dll
+Packages/io.elhan.firebase.auth/Assets/PlayServicesResolver/Editor/Google.JarResolver_v1.2.135.0.dll.mdb
+Packages/io.elhan.firebase.auth/Assets/PlayServicesResolver/Editor/Google.VersionHandler.dll
+Packages/io.elhan.firebase.auth/Assets/PlayServicesResolver/Editor/Google.VersionHandler.dll.mdb
+Packages/io.elhan.firebase.auth/Assets/PlayServicesResolver/Editor/Google.VersionHandlerImpl_v1.2.135.0.dll
+Packages/io.elhan.firebase.auth/Assets/PlayServicesResolver/Editor/Google.VersionHandlerImpl_v1.2.135.0.dll.mdb
+Packages/io.elhan.firebase.auth/Assets/PlayServicesResolver/Editor/play-services-resolver_v1.2.135.0.txt
+Packages/io.elhan.firebase.auth/Assets/Plugins/Android/Firebase/AndroidManifest.xml
+Packages/io.elhan.firebase.auth/Assets/Plugins/Android/Firebase/project.properties
+Packages/io.elhan.firebase.auth/Assets/Plugins/iOS/Firebase/libFirebaseCppApp.a
+Packages/io.elhan.firebase.auth/Assets/Plugins/iOS/Firebase/libFirebaseCppAuth.a
